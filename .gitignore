@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DemoLibrary/bin/Debug/net7.0
+/.vs/MediatRDemo/v17
+/DemoLibrary/obj
+/BlazorUI/obj
+/BlazorUI/bin/Debug/net7.0

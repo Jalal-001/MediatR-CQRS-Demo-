@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PohhOk9r3IvSgVTf9ALP9aT02q9Njg33CVQtU6rNfQY=",
+  "Hash": "Z6mH5zTW4XvAxz8oC5ObzU1VG8TVVsb+khoLo0FN/N4=",
   "Source": "BlazorUI",
   "BasePath": "_content/BlazorUI",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\Jalal`s folder\\source\\repos2023\\MediatRDemo\\BlazorUI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jalal`s folder\\source\\repos2023\\MediatRDemo\\BlazorUI\\wwwroot\\",
-      "BasePath": "_content/BlazorUI",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\Jalal`s folder\\source\\repos2023\\MediatRDemo\\BlazorUI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -202,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "D:\\Jalal`s folder\\source\\repos2023\\MediatRDemo\\BlazorUI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Jalal`s folder\\source\\repos2023\\MediatRDemo\\BlazorUI\\wwwroot\\",
+      "BasePath": "_content/BlazorUI",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\Jalal`s folder\\source\\repos2023\\MediatRDemo\\BlazorUI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
