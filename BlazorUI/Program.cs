@@ -11,7 +11,7 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddSingleton<IDataAccess, DemoDataAccess>();
 builder.Services.AddMediatR(mdr => mdr.RegisterServicesFromAssemblies(typeof(DemoDataAccess).GetTypeInfo().Assembly));
-;
+
 
 var app = builder.Build();
 

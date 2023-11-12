@@ -9,7 +9,7 @@ namespace DemoLibrary.DataAccess
         public DemoDataAccess()
         {
             people.Add(new PersonModel { Id = 1, Name = "Jalal", Surname = "Khaligov" });
-            people.Add(new PersonModel { Id = 1, Name = "Khayal", Surname = "Mammedov" });
+            people.Add(new PersonModel { Id = 2, Name = "Khayal", Surname = "Mammedov" });
         }
         public List<PersonModel> GetPeople()
         {

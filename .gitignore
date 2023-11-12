@@ -7,3 +7,9 @@
 /DemoLibrary/obj
 /BlazorUI/obj
 /BlazorUI/bin/Debug/net7.0
+/MediatRDemoApi/obj
+/MediatRDemoApi/bin
+MediatRDemo/DemoLibrary/obj
+MediatRDemo/vs
+**/bin/*
+**/obj/*
